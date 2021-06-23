@@ -4,9 +4,10 @@
 <h1 align="center">Electrocute4u</h1>
 <p align="center">
 Just your average developer, with no actual programming background, but still makes the cogs spin.
-If there is one thing that may differ me from other developers, is the fact I love anime and are a weeb.
-And I have absolutely no idea what I do, but it makes the cogs spin and that's enough to satisfy me.
 </p>
+<h4 align="center">
+I love Anime and yes, I am one of those weebs.
+</h4>
 <h2 align="left">Project(s) I currently maintain:</h2>
 
 * [Tsumiki](https://github.com/electrocute4u/Tsumiki)
