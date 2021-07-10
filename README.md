@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/51MFy5N.gif"/>
+<img src="https://i.imgur.com/bxXGhh5.jpg" alt="Kuuko is on fire! uwu" style="width:100px;height:100px;">
 </p>
 <h1 align="center">Electrocute4u</h1>
 <p align="center">
