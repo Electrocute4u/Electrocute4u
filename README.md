@@ -1,16 +1,19 @@
 <p align="center">
-<img src="https://i.imgur.com/bxXGhh5.jpg" alt="Kuuko is on fire! uwu" style="width:100px;height:100px;">
+<img src="https://i.imgur.com/i9nZKra.gif" alt="Kuuko is on fire! uwu">
 </p>
+
 <h1 align="center">Electrocute4u</h1>
 <p align="center">
 Just your average developer, with no actual programming background, but still makes the cogs spin.
 </p>
-<h4 align="center">
-I love Anime and yes, I am one of those weebs.
-</h4>
+<p align="center">
+I'm also the proud owner of <a href="https://top.gg/bot/594448596355645440">Milim</a> and <a href="https://top.gg/bot/560893917839622158">Tsumiki</a> Discord bots.
+</p>
+<h3 align="center">I love Anime and that's why my Discord bots are Anime-related uwu</h4>
 <h2 align="left">Project(s) I currently maintain:</h2>
 
-* [Tsumiki](https://github.com/electrocute4u/Tsumiki)
+* [Milim](https://github.com/electrocute4u/Milim)
+* Tsumiki[Github Repo not open to public]
 
 <h2 align="left">NPM project(s):</h2>
 <h3 align="left">Tsumiki Buttons</h3>
