@@ -2,15 +2,17 @@
 <img src="https://i.imgur.com/i9nZKra.gif" alt="Kuuko is on fire! uwu">
 </p>
 
+<a href="https://discord.com/users/203601251139715082" target="_blank">
+	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/203601251139715082?bg=1f1f1f&borderRadius=5px">
+</a>
+
 <h1 align="center">Electrocute4u</h1>
-<p align="center">
+<p>
 Just your average developer, with no actual programming background, but still makes the cogs spin.
-</p>
-<p align="center">
 I'm also the proud owner of <a href="https://top.gg/bot/594448596355645440">Milim</a> and <a href="https://top.gg/bot/560893917839622158">Tsumiki</a> Discord bots.
 </p>
-<h3 align="center">I love Anime and that's why my Discord bots are Anime-related uwu</h4>
-<h2 align="left">Project(s) I currently maintain:</h2>
+<h3>I love Anime and that's why my Discord bots are Anime-related uwu</h4>
+<h2>Project(s) I currently maintain:</h2>
 
 * [Milim](https://github.com/electrocute4u/Milim)
 * Tsumiki[Github Repo not open to public]
