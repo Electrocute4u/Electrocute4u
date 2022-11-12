@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/7LRa5A4.gif" alt="Kiriko is on fire! uwu">
+<img src="https://media1.tenor.com/images/6a578debae35b4e1c1908ddb00b186cc/tenor.gif?itemid=26725928" alt="Kiriko is on fire! uwu">
 </p>
 
 <a href="https://discord.com/users/203601251139715082" target="_blank">
