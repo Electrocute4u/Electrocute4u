@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/ELYStvF.gif" alt="Kuuko is on fire! uwu">
+<img src="https://i.imgur.com/jd5JIWv.gif" alt="Kiriko is on fire! uwu">
 </p>
 
 <a href="https://discord.com/users/203601251139715082" target="_blank">
