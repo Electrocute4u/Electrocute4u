@@ -12,6 +12,6 @@
 <h1 align="center">Electrocute4u</h1>
 <p>
 Just your average developer, with no actual programming background, but still makes the cogs spin ⚙.
-I'm also the proud owner of Milim and <a href="https://top.gg/bot/560893917839622158">Tsumiki</a> Discord bots.
+I'm also the proud owner of <a href="https://github.com/Electrocute4u/Kiriko">Kiriko</a> (current project) and <a href="https://github.com/Electrocute4u/Tsumiki">Tsumiki</a> (not operational) Discord bots.
 </p>
 <h3>I love Anime and that's why my Discord bots are Anime-related uwu</h4>
