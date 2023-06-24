@@ -9,7 +9,7 @@
 	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Electrocute4u&border_radius=0px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=false&custom_title=Coding%20Stats">
 </a>
 
-<h1 align="center">Electrocute4u | Milim#0001 </h1>
+<h1 align="center">Electrocute4u | @Milim (legacy: Milim#0001) </h1>
 <p>
 Just your average developer, with no actual programming background, but still makes the cogs spin ⚙.
 I'm also the proud owner of <a href="https://github.com/Electrocute4u/RoseKnights">RoseKnights</a> (current project), <a href="https://github.com/Electrocute4u/Kiriko">Kiriko</a> (not operational) and <a href="https://github.com/Electrocute4u/Tsumiki">Tsumiki</a> (not operational) Discord bots.
