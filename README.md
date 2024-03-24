@@ -12,6 +12,6 @@
 <h1 align="center">Electrocute4u | @Milim (legacy: Milim#0001) </h1>
 <p>
 Just your average developer, with no actual programming background, but still makes the cogs spin ⚙.
-I'm also the proud owner of <a href="https://github.com/Electrocute4u/RoseKnights">RoseKnights</a> (current project), <a href="https://github.com/Electrocute4u/Kiriko">Kiriko</a> (not operational) and <a href="https://github.com/Electrocute4u/Tsumiki">Tsumiki</a> (not operational) Discord bots.
+I'm also the proud owner of <a href="https://github.com/Electrocute4u/SleekHunters">SleekHunters</a> (main project), <a href="https://github.com/Electrocute4u/Kiriko">Kiriko</a> (not operational) and <a href="https://github.com/Electrocute4u/Tsumiki">Tsumiki</a> (not operational) Discord bots.
 </p>
 <h3>I love Anime and that's why my Discord bots are Anime-ish related OwO</h4>
